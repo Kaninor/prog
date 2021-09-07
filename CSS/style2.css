@@ -1,0 +1,26 @@
+body{
+  background-color: whitesmoke;
+  padding-top: 88px;
+}
+
+.main-div{
+  box-shadow: 2px 3px 8px #aaaaaa;
+  border: 2px solid #BBB;
+  padding: 60px;
+  border-radius: 10px;
+  width: 500px;
+  height: 520px;
+  margin: auto;
+  background-color: whitesmoke;
+}
+
+.main-div-2{
+  box-shadow: 2px 3px 8px #aaaaaa;
+  border: 2px solid #BBB;
+  padding: 60px;
+  border-radius: 10px;
+  width: 500px;
+  height: 440px;
+  margin: auto;
+  background-color: whitesmoke;
+}
